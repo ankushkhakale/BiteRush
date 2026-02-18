@@ -1,4 +1,4 @@
-# Welcome to your Lovable project
+# Welcome to your Lovable project - Builded for Session on AI tools usecase
 
 ## Project info
 
